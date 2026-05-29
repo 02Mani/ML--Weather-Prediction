@@ -23,9 +23,8 @@ To write a program to predict daily temperature , PM2.5 pollution level and Ener
 /*
 Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
 
-Developed by: Jones Benedict A P
-
-RegisterNumber: 212224040142
+Developed by: MANIKANDAN M
+RegisterNumber: 212224040183
 */
 ```
 import pandas as pd
